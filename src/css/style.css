@@ -1,0 +1,31 @@
+body {
+    background-color: bisque; 
+}
+
+.counter {
+    display: flex;
+    justify-content: space-between;
+    width: 420px;
+    margin: 50px auto 10px;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    width: 420px;
+    margin: 10px auto;
+}
+  
+.block {
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    float: left;
+    box-sizing: border-box;
+    background-color: yellowgreen; 
+}
+
+.goblin {
+    background-image: url(../img/goblin.png);
+    background-size: cover;
+}
