@@ -1,4 +1,4 @@
-import Board from "./board";
+import Board from "./Board";
 import Goblin from "./Goblin";
 import Cursor from "./components/cursor/Cursor";
 
